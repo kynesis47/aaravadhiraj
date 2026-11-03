@@ -1,5 +1,5 @@
-- hello, I'm @aaravadhiraj
-- I am just learning
+- hello, I'm kynesis
+- Learning stuff
 
 <!---
 aaravadhiraj/aaravadhiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
